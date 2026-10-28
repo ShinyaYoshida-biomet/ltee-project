@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "ecoli_evol"
+abstract: "or ecoli"
+type: software
+authors:
+  - given-names: "Shinya"
+    family-names: "Yoshida"
+    email: "Shinya.Yoshida@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0009-0003-2702-7166"
+repository-code: "https://github.com/ShinyaYoshida-biomet/ecoli-evol"
+version: 0.1.0
+date-released: "2026-10-26"
