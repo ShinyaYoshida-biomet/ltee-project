@@ -32,3 +32,5 @@ Source of the sample information: Data Carpentry, _Wrangling Genomics_,
 `Ecoli_metadata_composite.csv` (CC BY 4.0), from Tenaillon et al. 2016,
 _Nature_ 536:165, <https://doi.org/10.1038/nature18959>. Runs are in NCBI
 BioProject PRJNA295606.
+
+The reads were trimmed and subsampled by Data Carpentry.
