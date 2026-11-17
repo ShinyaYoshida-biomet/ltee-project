@@ -33,3 +33,9 @@ reports/*_files/
 __pycache__/
 .DS_Store
 Thumbs.db
+
+
+
+containers/
+reports/.quarto/
+reports/**.pdf
