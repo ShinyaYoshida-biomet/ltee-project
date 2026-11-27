@@ -43,10 +43,9 @@ A container image of the pipeline environment can be built from
 
 ## Hardware
 
-Any laptop from the last few years. Measured on 2026-10-24 (Apple M4 Max,
-4 cores): about 4 GB of disk for the software environments, 330 MB for the
-raw data and 200 MB for the results; the workflow takes under a minute and
-less than 1 GB of memory.
+Measured on 2026-11-27 on a MacBook Pro with an Apple M5 Pro and 24 GB of RAM. The installed Pixi environments use about 1.1 GiB (`default`) and
+2.6 GiB (`pipeline`); raw data uses 332 MiB and the current results use
+about 1.0 GiB.
 
 ## Outputs
 
