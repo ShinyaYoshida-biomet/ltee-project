@@ -36,6 +36,7 @@ Thumbs.db
 
 
 
-containers/
+containers/*
+!containers/Dockerfile
 reports/.quarto/
 reports/**.pdf
