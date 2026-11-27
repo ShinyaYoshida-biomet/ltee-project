@@ -1,5 +1,6 @@
 # ecoli_evol
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24598516.svg)](https://doi.org/10.5281/zenodo.24598516)
 or ecoli
 
 Author: Shinya Yoshida ([ORCID 0009-0003-2702-7166](https://orcid.org/0009-0003-2702-7166))

@@ -9,9 +9,10 @@ authors:
     email: "Shinya.Yoshida@mbzuai.ac.ae"
     orcid: "https://orcid.org/0009-0003-2702-7166"
 repository-code: "https://github.com/ShinyaYoshida-biomet/ltee-project"
+doi: "10.5281/zenodo.24598516"
 license: MIT
-version: 0.1.0
-date-released: "2026-12-01"
+version: "1.0.2"
+date-released: "2026-11-27"
 keywords:
   - reproducibility
   - variant calling
