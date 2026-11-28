@@ -1,6 +1,6 @@
 # LTEE variant calling
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24598516.svg)](https://doi.org/10.5281/zenodo.24598516)
+[![DOI](https://zenodo.org/badge/github/1437194811.svg)](https://doi.org/10.5281/zenodo.24598515)
 
 Variant calling on three _E. coli_ clones from population Ara-3 of Richard
 Lenski's Long-Term Evolution Experiment (LTEE), frozen at 5,000, 15,000 and
